@@ -1,0 +1,23 @@
+SAMPLE COMPANY HR POLICY — FOR SOFTWARE DEMONSTRATION ONLY
+This fictional HR policy is for RAG testing only. All entitlements, amounts, deadlines, and coverage below are invented demo values, not the policy of a real employer. Currency amounts are in Indian rupees (INR). A business day means Monday through Friday, excluding company holidays. The policy year is January 1 through December 31.
+
+LEAVE
+In this demo policy, full-time employees receive 18 days of annual leave, 8 days of sick leave, and 6 days of casual leave per policy year. There are also 10 company holidays per year. Submit planned annual leave at least 5 business days before the start date and obtain manager approval. Notify the manager of sick leave before 10:00 AM on the first day when possible. A medical certificate is required for sick leave lasting 3 or more consecutive working days. Up to 5 unused annual-leave days may be carried forward; they expire on March 31 of the following year. Sick and casual leave cannot be carried forward.
+
+ATTENDANCE
+The demo work schedule is Monday through Friday, 9:00 AM to 6:00 PM, including a 1-hour unpaid lunch break. This equals 8 working hours per day and 40 working hours per week. Record attendance in the HR portal each working day. Submit an attendance correction within 3 business days of the incorrect entry. Managers should approve or reject corrections within 2 business days of submission.
+
+WORK FROM HOME
+Employees become eligible to request work from home after 90 calendar days of employment. Eligible roles may work remotely up to 2 days per week with manager approval; eligibility does not guarantee approval. Submit each remote-work request at least 2 business days in advance. Use approved devices and protect confidential information. Approved remote workers may claim internet reimbursement up to INR 1,500 per calendar month against receipts; unused monthly limits do not carry forward.
+
+PAYROLL
+Salary is paid on the last business day of each calendar month. Payslips are available in the HR portal within 2 business days after payment. For salary or payslip discrepancies, open a ticket with the official payroll channel or HR service portal within 5 business days of receiving the payslip. Payroll should acknowledge the ticket within 1 business day and target resolution within 3 business days of acknowledgement. Share information only through approved secure channels. Do not send passwords or authentication codes.
+
+BENEFITS
+The fictional health-insurance plan provides a shared annual family coverage limit of INR 500,000 for the employee, spouse, and up to 2 dependent children. Coverage begins after 30 calendar days of employment and is subject to demo plan exclusions; it is not a promise of real insurance coverage. Submit health-insurance reimbursement claims within 30 calendar days after hospital discharge. Separately, the demo learning budget is INR 12,000 per employee per policy year. Obtain manager approval before purchasing a course and submit the receipt within 15 calendar days of purchase. Unused learning budget expires on December 31.
+
+CONFIDENTIALITY
+Access sensitive business and employee information only for authorized work. Report a suspected loss of a company device or exposure of confidential information to the information-security team within 1 hour of discovery. Complete mandatory security training within 14 calendar days of joining and once every 12 months thereafter. Follow applicable laws and the employer's information-security rules.
+
+ESCALATION
+For general HR policy questions, open an HR service-portal ticket. The demo HR response target is 2 business days. If a ticket remains unresolved for 5 business days after submission, escalate it to the HR manager using the original ticket number. For actual employment decisions, consult authoritative documents and qualified professionals. This entire file, including every numerical value, is synthetic test data.

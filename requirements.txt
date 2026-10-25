@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+mcp>=1.9,<2.0
+chromadb
+sentence-transformers
+ollama
+httpx
+python-dotenv
